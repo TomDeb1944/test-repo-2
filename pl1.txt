@@ -1,0 +1,1 @@
+notatka testowa w pierwszym pliku dodanym już do commit
