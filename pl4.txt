@@ -1,0 +1,1 @@
+trzecia edycja pliku w celu zapisania na trzecim commicie razem z pl2.txt

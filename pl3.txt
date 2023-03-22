@@ -1,0 +1,1 @@
+druga edycja pliku z drugiego commit-a w celu zapisania tego pliku w tym samym commicie
