@@ -1,3 +1,6 @@
 notatka testowa w pierwszym pliku dodanym już do commit
 
 nowa notatka po skopiowaniu repozytorium - test
+
+27.03 - notatka zeby sprawdzić czy pl1.txt się nadpisze czy też doda w nowym commicie
+myśle, że doda sie w nowym komicie, ale chyba mozna też nadpisac w komicie, w ktorym to juz jest, przekonamy sie
